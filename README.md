@@ -176,7 +176,7 @@ Computer Science Student | Kenya
 Interested in proptech, fintech, secure system architecture, and 
 building software that solves real African market problems.
 
-[LinkedIn](#) | kennethceruulo@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kenneth-ceruulo-dev) | kennethceruulo@gmail.com
 
 ---
 
